@@ -1,0 +1,3 @@
+this is a line in file
+this is another line in the file
+this is the last line of the file
